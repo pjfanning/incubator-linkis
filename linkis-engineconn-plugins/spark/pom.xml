@@ -490,7 +490,7 @@
     <profile>
       <id>spark-2.4-hadoop-3.3</id>
       <properties>
-        <hadoop.version>${hadoop-hdfs-client-shade.version}</hadoop.version>
+        <hadoop.version>3.2.4</hadoop.version>
       </properties>
       <dependencies>
         <dependency>
