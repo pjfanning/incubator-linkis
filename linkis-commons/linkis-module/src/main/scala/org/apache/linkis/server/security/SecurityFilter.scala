@@ -17,7 +17,7 @@
 
 package org.apache.linkis.server.security
 
-import org.apache.linkis.common.conf.Configuration
+import org.apache.linkis.common.conf.{CommonVars, Configuration}
 import org.apache.linkis.common.utils.{Logging, RSAUtils, Utils}
 import org.apache.linkis.errorcode.LinkisModuleErrorCodeSummary.ILLEGAL_USER_TOKEN
 import org.apache.linkis.server.{Message, _}
